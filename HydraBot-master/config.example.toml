@@ -7,7 +7,7 @@ user = "HydraBot"
 password = "hydrabot"
 
 [discord]
-token = "DiscordBotApiTokenHere"
+token = "ODE0MzcxMDgwNjAzOTU5Mjk2.YDc4Kw.liThN3nmzEJ8jLLJYt5GvnjVK00"
 
 [webapi]
 port = 1337
